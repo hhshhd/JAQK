@@ -58,5 +58,5 @@ If you have **ANY** detailed question about the plan/design/develop of this pack
 
 ## Previous Updates
 
-All changes (pushes) have been recorded [here](https://github.com/Haannbboo/JAQK/blob/master/HISVERSION.md). Click for more details.
+All changes (pushes) have been recorded [here](https://github.com/Haannbboo/JAQK/blob/master/HISVERSION.md). Click for more details..
   
